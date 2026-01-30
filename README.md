@@ -7,7 +7,7 @@ This project allows users to **register**, **login**, **view profile**, and **ed
 
 ## 🚀 Live Demo
 
-👉 **Live URL:** `PASTE_YOUR_DEPLOYED_URL_HERE`
+[URL](https://account-manager-phi.vercel.app/)
 
 
 ---
@@ -17,19 +17,19 @@ This project allows users to **register**, **login**, **view profile**, and **ed
 
 ### 🏠 Home Page
 
-!(<src/assets/screenshots/Screenshot 2026-01-30 152500.png>)
+![Home Page](src/assets/screenshots/Home.png)
 
 ### 📝 Register Page
 
-!(<src/assets/screenshots/Screenshot 2026-01-30 152757.png>)
+![Register Page](src/assets/screenshots/Register.png)
 
 ### 🔐 Login Page
 
-!(<src/assets/screenshots/Screenshot 2026-01-30 152739.png>)
+![Login Page](src/assets/screenshots/Login.png)
 
 ### 👤 Profile Page
 
-!(<src/assets/screenshots/Screenshot 2026-01-30 152819.png>)
+![Profile Page](src/assets/screenshots/Profile.png)
 
 
 ---
