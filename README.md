@@ -163,9 +163,3 @@ This project is created for learning and evaluation purposes.
 
 ---
 
-✅ **Submission Checklist**
-
-* [ ] GitHub Repository Link Added
-* [ ] Live URL Added
-* [ ] Screenshots Added
-* [ ] README Updated
